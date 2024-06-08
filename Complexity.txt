@@ -1,0 +1,9 @@
+What is Time Complexity?
+
+Time complexity is a computational complexity that describes the amount of time it takes to run an algorithm as a function of the length of the input. It provides an upper bound on the running time, allowing us to estimate how the runtime increases as the size of the input increases.
+
+
+
+taking the first program as an example for calculating the complexity *PrintNumber*
+
+- Each individual step in this program is O(1), meaning they take constant time.
